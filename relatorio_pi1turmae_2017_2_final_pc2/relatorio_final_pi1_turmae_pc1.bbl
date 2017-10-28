@@ -1,0 +1,187 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[ABCDMED 2012]{ultrasomexame}
+\abntrefinfo{ABCDMED}{ABCDMED}{2012}
+{ABCDMED. \emph{Ultrassonografia: como é este exame?} 2012. Disponível em:
+  \url{http://www.abc.med.br/p/exames-e-procedimentos/327345/ultrassonografia-como-e-este-exame.html}.
+Acessado em: 21/10/2017.}
+
+\bibitem[ACER 2017]{notebook1}
+\abntrefinfo{ACER}{ACER}{2017a}
+{ACER. \emph{Notebook ACER A515-51G-58VH}. 2017. Disponível
+  em:\url{https://www.acer.com/ac/pt/BR/content/series/aspire-e}.
+Acessado em: 25/10/2017.}
+
+\bibitem[ACER 2017]{notebook2}
+\abntrefinfo{ACER}{ACER}{2017b}
+{ACER. \emph{Notebook ACER ES1-572-33SJ}. 2017. Disponível
+  em:\url{https://www.acer.com/ac/pt/BR/content/series/aspirees}.
+Acessado em: 25/10/2017.}
+
+\bibitem[Alexander 2013]{sadikualexander2013}
+\abntrefinfo{Alexander}{ALEXANDER}{2013}
+{ALEXANDER, M. N. O.~S. C.~K. \emph{Fundamentos de circuitos elétricos}. 5.
+  ed. Porto Alegre: AMGH, 2013.}
+
+\bibitem[ARDUINO 2017]{arduinodue}
+\abntrefinfo{ARDUINO}{ARDUINO}{2017a}
+{ARDUINO. \emph{Arduino DUE}. 2017. Disponível em:
+  \url{https://store.arduino.cc/usa/arduino-due}.
+Acessado em: 23/10/2017.}
+
+\bibitem[ARDUINO 2017]{arduinonano}
+\abntrefinfo{ARDUINO}{ARDUINO}{2017b}
+{ARDUINO. \emph{Arduino NANO}. 2017. Disponível em:
+  \url{https://store.arduino.cc/usa/arduino-nano}.
+Acessado em: 23/10/2017.}
+
+\bibitem[ASUS 2017]{notebook4}
+\abntrefinfo{ASUS}{ASUS}{2017}
+{ASUS. \emph{Notebook Asus Vivobook Flip TP301UA}. 2017. Disponível
+  em:\url{https://www.asus.com/br/2-in-1-PCs/ASUS-VivoBook-Flip-TP301UA/}.
+Acessado em: 25/10/2017.}
+
+\bibitem[Bergm{\"u}ller 2015]{bergmuller2015desenvolvimento}
+\abntrefinfo{Bergm{\"u}ller}{BERGM{\"U}LLER}{2015}
+{BERGM{\"U}LLER, E.~L.
+\emph{Desenvolvimento de uma plataforma com dois graus de liberdade para
+  compensa{\c{c}}{\~a}o de inclina{\c{c}}{\~o}es atrav{\'e}s de um sistema de
+  controle inercial}.
+Disserta\c{c}\~{a}o (Mestrado) --- Universidade Federal do Rio Grande do Sul,
+  Porto Alegre, 2015. [Acesso em 19/10/2017].}
+
+\bibitem[Callister 2013]{william2013}
+\abntrefinfo{Callister}{CALLISTER}{2013}
+{CALLISTER, D. G.~R. W.~D. \emph{Ciência e engenharia de materiais: uma
+  introdução}.
+8. ed. Rio de Janeiro, Brasil, 2013. 817~p.}
+
+\bibitem[Carrara 2011]{valdemircarrara2011}
+\abntrefinfo{Carrara}{CARRARA}{2011}
+{CARRARA, V. \emph{Apostila de robótica}.
+Mogi das Cruzes, 2011.}
+
+\bibitem[Diakopoulos 2017]{IEEElang}
+\abntrefinfo{Diakopoulos}{DIAKOPOULOS}{2017}
+{DIAKOPOULOS, S.~C. N. \emph{Interactive: The Top Programming Languages 2017}.
+  2017. Disponível em:
+  \url{https://spectrum.ieee.org/static/interactive-the-top-programming-languages-2017}.
+Acessado em: 10/10/2017.}
+
+\bibitem[Healthcare 2016]{gevenue40}
+\abntrefinfo{Healthcare}{HEALTHCARE}{2016}
+{HEALTHCARE, G. \emph{Ultrassom GE Venue 40}. 2016. Disponível
+  em:\url{http://www.aparelhos-ultra-som.com/ultrassom-ge-venue-40.html}.
+Acessado em: 17/10/2017.}
+
+\bibitem[HP 2017]{notebook5}
+\abntrefinfo{HP}{HP}{2017}
+{HP. \emph{Notebook HP Compaq Presario CQ-21-14}. 2017. Disponível em:
+  \url{https://www.walmart.com.br/notebook-hp-compaq-presario-cq-21-14-intel-core-i3-4gb-hd-500gb/informatica/notebooks/5663695/pr}.
+Acessado em: 25/10/2017.}
+
+\bibitem[IMPRESSAO3DFACIL 2015]{impressaofacil}
+\abntrefinfo{IMPRESSAO3DFACIL}{IMPRESSAO3DFACIL}{2015}
+{IMPRESSAO3DFACIL. \emph{Conheça os diferentes tipos de materiais para
+  impressão 3D FDM}. 2015. Disponível em:
+  \url{http://www.impressao3dfacil.com.br/conheca-os-diferentes-tipos-de-materiais-para-impressao-3d-fdm/}.
+Acessado em: 16/09/2017.}
+
+\bibitem[LENOVO 2017]{notebook3}
+\abntrefinfo{LENOVO}{LENOVO}{2017}
+{LENOVO. \emph{Notebook Lenovo Ideapad 80YH0006BR}. 2017. Disponível
+  em:\url{https://www3.lenovo.com/br/pt/laptops/ideapad/serie-300/Lenovo-IdeaPad-320-15IKB/p/88IP3000842}.
+Acessado em: 25/10/2017.}
+
+\bibitem[LIFEWIRE 2017]{passovsservo}
+\abntrefinfo{LIFEWIRE}{LIFEWIRE}{2017}
+{LIFEWIRE. \emph{Stepper Motors vs. Servo Motors - Selecting a Motor}. 2017.
+  Disponível em:
+  \url{https://www.lifewire.com/stepper-motor-vs-servo-motors-selecting-a-motor-818841}.
+Acessado em: 10/10/2017.}
+
+\bibitem[Metais 2017]{materialt6}
+\abntrefinfo{Metais}{METAIS}{2017}
+{METAIS, G. \emph{6061 T6}. 2017. Disponível em:
+  \url{http://www.ggdmetals.com.br/produto/aluminio-6061-t6/}.
+Acessado em: 26/10/2017.}
+
+\bibitem[Moura 2016]{mlbateriamoura}
+\abntrefinfo{Moura}{MOURA}{2016}
+{MOURA. \emph{Bateria Moura nobreack vrla 12MVA-7}. 2016. Disponível em:
+  \url{https://moura-portal.s3.amazonaws.com/uploads/2017/02/CatalogoMouraNobreak_Jan2017.pdf}.
+Acessado em: 25/10/2017.}
+
+\bibitem[neomotion 2017]{drivermanual}
+\abntrefinfo{neomotion}{NEOMOTION}{2017a}
+{NEOMOTION. \emph{Datasheet de produto - AKDMP8220-8.2A}.
+Joinville, 2017. Dispon{\'\i}vel em:
+  \url{http://www.neomotion.com.br/driver-motor-de-passo/akdmpd8-220-8-2a/}.}
+
+\bibitem[neomotion 2017]{passomotormanual}
+\abntrefinfo{neomotion}{NEOMOTION}{2017b}
+{NEOMOTION. \emph{Datasheet de produto - Motores de passo}.
+Joinville, 2017. Dispon{\'\i}vel em:
+  \url{http://www.neomotion.com.br/driver-motor-de-passo/akdmpd8-220-8-2a/}.}
+
+\bibitem[Nunes 2015]{bracomec}
+\abntrefinfo{Nunes}{NUNES}{2015}
+{NUNES, L.~F. de O.~M.
+\emph{Projeto e fabricação de um braço mecânico para ultrassom médico}.
+Disserta\c{c}\~{a}o (Projeto de graduação) --- UFRJ/ESCOLA POLITÉCNICA, Rio
+  de Janeiro, Brasil, 2015.}
+
+\bibitem[Oppenheim 2010]{alanoppenheim}
+\abntrefinfo{Oppenheim}{OPPENHEIM}{2010}
+{OPPENHEIM, A. S.~W. A.~V. \emph{Sinais e Sistemas}. 2. ed. [S.l.]: Pearson
+  Education do Brasil, 2010.}
+
+\bibitem[PHILIPS 2015]{philipscx50}
+\abntrefinfo{PHILIPS}{PHILIPS}{2015}
+{PHILIPS. \emph{Ultrassom Philips CX50}. 2015. Disponível
+  em:\url{http://www.aparelhos-ultra-som.com/ultrassom-philips-cx50.html}.
+Acessado em: 15/10/2017.}
+
+\bibitem[SAMSUNG 2014]{samsunghm70a}
+\abntrefinfo{SAMSUNG}{SAMSUNG}{2014}
+{SAMSUNG. \emph{Ultrassom Samsung HM70A}. 2014. Disponível
+  em:\url{http://www.samsung.com/br/business/business-products/healthcare-product/ultrasound/USS-HM7AF1B/BR}.
+Acessado em: 15/10/2017.}
+
+\bibitem[SAMSUNG 2015]{samsungsonou6}
+\abntrefinfo{SAMSUNG}{SAMSUNG}{2015}
+{SAMSUNG. \emph{Ultrassom Samsung MySono U6}. 2015. Disponível
+  em:\url{http://www.samsung.com/global/business/healthcare/healthcare/ultrasound/USS-MYU6N10/WR}.
+Acessado em: 15/10/2017.}
+
+\bibitem[Solar 2013]{portalso1}
+\abntrefinfo{Solar}{SOLAR}{2013}
+{SOLAR, P. \emph{TIPOS DE PAINEL SOLAR FOTOVOLTAICO}. 2013. Disponível em:
+  \url{http://www.portalsolar.com.br/tipos-de-painel-solar-fotovoltaico.html}.
+Acessado em: 25/10/2017.}
+
+\bibitem[SONOSCAPE 2015]{sonoscapea6}
+\abntrefinfo{SONOSCAPE}{SONOSCAPE}{2015}
+{SONOSCAPE. \emph{Ultrassom SonoScape A6}. 2015. Disponível em:
+  \url{http://www.kpiultrasound.com/medical-equipment/ultrasound-scanners/other-ultrasound-systems/sonoscape-a6-portable/}.
+Acessado em: 17/10/2017.}
+
+\bibitem[Tilley 2007]{alvintilley2007}
+\abntrefinfo{Tilley}{TILLEY}{2007}
+{TILLEY, A.~R. \emph{As medidas do homem e da mulher: fatores humanos em
+  design}.
+Porto Alegre, Brasil, 2007. 104~p.}
+
+\bibitem[Voss 2008]{voss2008comprehensible}
+\abntrefinfo{Voss}{VOSS}{2008}
+{VOSS, W. \emph{A Comprehensible Guide to Controller Area Network}. Copperhill
+  Technologies Corporation, 2008.
+ISBN 9780976511601. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=PU6ppO3XbUwC}.}
+
+\end{thebibliography}
